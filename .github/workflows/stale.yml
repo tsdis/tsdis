@@ -21,7 +21,7 @@ jobs:
     - uses: actions/stale@v3
       with:
         repo-token: ${{ secrets.GH_TOKEN }}
-        stale-issue-message: 'Stale issue message'
-        stale-pr-message: 'Stale pull request message'
+        stale-issue-message: 'This Issue Is Now Stale'
+        stale-pr-message: 'This Pull Is Now Stale'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
