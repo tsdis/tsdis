@@ -1,0 +1,39 @@
+{
+  "name": "tsdis",
+  "version": "0.0.1",
+  "description": "A Typescript wrapper for the discord api",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsdis/tsdis.git"
+  },
+  "keywords": [
+    "typescript",
+    "ts",
+    "discord",
+    "api",
+    "wrapper",
+    "node",
+    "javascript",
+    "npm"
+  ],
+  "author": "Typescript Discord",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/tsdis/tsdis/issues"
+  },
+  "homepage": "https://github.com/tsdis/tsdis#readme",
+  "dependencies": {
+    "prettier": "^2.4.1",
+    "tslint": "^6.1.3",
+    "typescript": "^4.4.4"
+  },
+  "engines": {
+      "node": ">=16.6.0",
+      "npm": ">=7.0.0"
+    }
+  
+}
