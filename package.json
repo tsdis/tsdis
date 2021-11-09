@@ -1,6 +1,6 @@
 {
   "name": "tsdis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Typescript wrapper for the discord api",
   "main": "src/index.ts",
   "scripts": {
